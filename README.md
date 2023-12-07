@@ -1,16 +1,43 @@
-# movie_app
+🚀 Week 3 Update: Flutter Movie App
 
-A new Flutter project.
+Hey everyone! 👋
 
-## Getting Started
+I'm excited to share the latest update on my Flutter Movie App project! In this third week of my UI challenge, I've made significant progress, incorporating Test-Driven Development (TDD), Bloc Pattern, and Clean Architecture principles into the app.
 
-This project is a starting point for a Flutter application.
+Key Features:
+Trending Movies:
 
-A few resources to get you started if this is your first Flutter project:
+Explore the latest trending movies in real-time.
+Dynamic content that updates as trends change.
+Popular Movies:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Discover the most popular movies based on user interactions.
+Engaging user interface showcasing popular films.
+Movie Search:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Implemented a powerful search feature using themoviedb.org API.
+Users can easily find information about their favorite movies.
+Tech Stack:
+Flutter:
+
+Leveraged the Flutter framework for building a cross-platform mobile app.
+Test-Driven Development (TDD):
+
+Ensured code reliability and maintainability through TDD practices.
+Unit tests cover critical components of the application.
+Bloc Pattern:
+
+Utilized the Bloc pattern for managing state in a clean and scalable manner.
+Separation of concerns for better code organization.
+Clean Architecture:
+
+Structured the app using Clean Architecture principles for maintainability and flexibility.
+Separation of business logic from the UI for a more modular codebase.
+What's Next?
+In the upcoming weeks, I plan to enhance the app further by:
+
+Adding more advanced features.
+Refining the UI for an even better user experience.
+Exploring additional Flutter packages to extend functionality.
+
+![alt text](https://raw.githubusercontent.com/Djallelbrahmia/movie_app/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202023-12-07%20at%2016.18.09.png)
